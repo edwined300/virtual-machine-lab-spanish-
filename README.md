@@ -13,9 +13,8 @@ https://youtu.be/rG89_TPm6-A
 ---
 
 #### 🧪 Laboratorio 1.2: Herramientas Esenciales de Linux
-## 🎥 Video Tutorial
-[https://youtu.be/rG89_TPm6-A
-](https://www.youtube.com/watch?v=Lfw5nZ6GsKc&list=PLau-hkhD1pZfdzP1v7YEzs9mPp0ppiTP4&index=10) 
+## 🎥 Video Tutorial [https://youtu.be/rG89_TPm6-A](https://www.youtube.com/watch?v=Lfw5nZ6GsKc&list=PLau-hkhD1pZfdzP1v7YEzs9mPp0ppiTP4&index=10) 
+
 ---
 
 ### 🧪 Laboratorio 1.3: Herramientas de Administración de Archivos Esenciales
@@ -38,8 +37,8 @@ Comandos para identificar hardware y configuración del sistema, y ajustes del a
 
 ### 🧪 Laboratorio 1.6: Gestión del Almacenamiento
 Administración básica de discos y sistemas de archivos en Linux.  
-🎥 Video: [https://www.youtube.com/watch?v=ID_VIDEO_1_6
-](https://www.youtube.com/watch?v=SoJjoSvTBmk&list=PLau-hkhD1pZfdzP1v7YEzs9mPp0ppiTP4&index=6) 
+🎥 Video: [https://www.youtube.com/watch?v=ID_VIDEO_1_6](https://www.youtube.com/watch?v=SoJjoSvTBmk&list=PLau-hkhD1pZfdzP1v7YEzs9mPp0ppiTP4&index=6) 
+
 ---
 
 ### 🧪 Laboratorio 1.7: Administración de Usuarios y el Sistema
@@ -56,8 +55,7 @@ Gestión de servicios de red esenciales en entornos Linux.
 
 ### 🧪 Laboratorio 1.9: Configurando Redes
 Configuración básica de red en Linux.  
-🎥 Video: [https://www.youtube.com/watch?v=ID_VIDEO_1_9
-](https://www.youtube.com/watch?v=wAOIUqlvBvo&list=PLau-hkhD1pZfdzP1v7YEzs9mPp0ppiTP4&index=3)
+🎥 Video: [https://www.youtube.com/watch?v=ID_VIDEO_1_9](https://www.youtube.com/watch?v=wAOIUqlvBvo&list=PLau-hkhD1pZfdzP1v7YEzs9mPp0ppiTP4&index=3)
 
 ---
 
